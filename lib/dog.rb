@@ -10,4 +10,3 @@ class Dog
    end
 
 end
-
