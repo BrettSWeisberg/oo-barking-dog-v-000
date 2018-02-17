@@ -10,7 +10,7 @@ class Dog
    end
 
   def bark #instance method
-    puts "Woof!"
+    puts "woof!"
   end
 end
 
