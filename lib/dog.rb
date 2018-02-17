@@ -9,9 +9,6 @@ class Dog
      @name
    end
 
-  def bark #instance method
-    puts "woof!"
-  end
 end
 
 fido = Dog.new
