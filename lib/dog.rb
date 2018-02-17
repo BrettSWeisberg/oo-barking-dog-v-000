@@ -9,7 +9,7 @@ class Dog
      @name
    end
 
-  def .bark #instance method
+  def bark #instance method
     puts "Woof!"
   end
 end
